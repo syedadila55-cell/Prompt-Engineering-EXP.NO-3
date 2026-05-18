@@ -285,3 +285,5 @@ Preceding question prompts provide depth
 [Prompt ex-3.pdf](https://github.com/user-attachments/files/26177153/Prompt.ex-3.pdf)
 
 RESULT:
+
+Thus,the experiment for exploring different type of prompt is completed successfully
